@@ -1933,7 +1933,7 @@ setTimeout(function(){
 
 			$("html").css("overflow", "hidden");
 			$("body").css("overflow", "hidden");
-			$('.grav').css('cursor', 'move');
+			$('nav').css('cursor', 'move');
 	
 
 			
